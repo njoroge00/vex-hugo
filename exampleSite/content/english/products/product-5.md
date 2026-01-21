@@ -1,28 +1,21 @@
 ---
-title: "Redmi Watch"
-date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
-images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
-
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-# button link if you don't want to use snipcart. empty link will not show button
-button_link: "#"
-
+title: Carestream DVE Films
+date: 2019-10-17T05:22:16.000Z
+image: /images/WhatsApp Image 2026-01-21 at 12.14.15 (1).jpeg
+images:
+  - ''
+description: this is meta description
+price: '30.00'
+discount_price: '25.00'
+colors:
+  - black
+  - white
+  - gray
+sizes:
+  - small
+  - medium
+  - large
+button_link: '#'
 draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+CareStream DryView films compatible with laser imagers. High quality grayscale; used widely in hospitals for hard copies.
